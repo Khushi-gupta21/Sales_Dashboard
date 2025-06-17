@@ -25,6 +25,9 @@ This project showcases an end-to-end **Sales Analytics Dashboard** built using M
 ## 📸 Dashboard Screenshot
 
 ![Sales Dashboard Screenshot](https://github.com/Khushi-gupta21/Sales_Dashboard/blob/intermediate/Screenshots/Screenshot%20(1).png)
+![Sales Dashboard Screenshot](https://github.com/Khushi-gupta21/Sales_Dashboard/blob/intermediate/Screenshots/Screenshot%20(2).png)
+![Sales Dashboard Screenshot](https://github.com/Khushi-gupta21/Sales_Dashboard/blob/intermediate/Screenshots/Screenshot%20(3).png)
+![Sales Dashboard Screenshot](https://github.com/Khushi-gupta21/Sales_Dashboard/blob/intermediate/Screenshots/Screenshot%20(4).png)
 
 ---
 
