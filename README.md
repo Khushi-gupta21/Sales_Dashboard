@@ -8,7 +8,7 @@ This project showcases an end-to-end **Sales Analytics Dashboard** built using M
 - Power BI (Desktop)
 - DAX (Data Analysis Expressions)
 - Power Query
-- Excel (as source data)
+- AdventureWorks Sample Database (as source data)
 
 ---
 
